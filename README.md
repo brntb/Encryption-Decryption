@@ -1,4 +1,4 @@
-# HyperSkill--Encryption-Decryption
+# HyperSkill-Encryption-Decryption
 # Stage 6/6
 # Description
 
